@@ -46,6 +46,10 @@ C:\work\python-playground>Scripts\activate.bat
 In each objective directory there is a README.md file that describes the coding objective. Follow the instructions in the README.
 
 ### Test your code:
+Your objectives will be evaluated by pytest. The first line of the python source file for each objective is a comment containing the string "NO-TEST" which tells pytest to skip this objective when testing.
+
+At first, all the objective tests will be skipped. As you complete the coding for each objective, remove the "NO-TEST" comment from the first line of the objective source file.
+
 #### Run pytest to see if you have achieved the objective:
 *MacOS*
 ```
@@ -56,7 +60,7 @@ In each objective directory there is a README.md file that describes the coding 
 ```
 (python-playground) C:\work\python-playground>pytest
 ```
-When all objectives have been achieved then the tests will pass with 100% success.
+When all objectives have been achieved then the tests will pass with 100% success and no skipped tests.
 
 
 
