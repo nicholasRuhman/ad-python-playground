@@ -1,4 +1,4 @@
-# NOTE: these instructions are written for MacOS only, at the moment.
+<span style="color:red"><b>NOTE: these instructions are written for MacOS only, at the moment.</b></span>
 
 ## python-playground
 This game is a set of python programming objectives of varying difficulty. You play by completing as many objectives as you can, either by writing python code or fixing bugs hidden in existing code.
