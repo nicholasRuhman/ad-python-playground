@@ -1,3 +1,4 @@
+#NO-TEST (remove this comment to make your code visible to pytest)
 # Implement the following function:
 #
 # Function Name: chop
