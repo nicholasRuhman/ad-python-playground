@@ -6,4 +6,3 @@
 # Return type: <int>
 #
 # Description: return the input value incremented by 1.
-
